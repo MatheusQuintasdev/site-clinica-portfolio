@@ -1,0 +1,331 @@
+Crie uma landing page PREMIUM e CINEMATOGRÁFICA para uma clínica de estética de alto padrão chamada Q!Clinic, localizada em Alphaville. O objetivo NÃO é parecer um template comum de clínica, mas sim transmitir exclusividade, sofisticação, acolhimento e experiência premium.
+
+REFERÊNCIA VISUAL:
+Misture estética de:
+
+* Apple
+* clínicas de Dubai
+* estética coreana premium
+* hotéis de luxo
+* marcas minimalistas sofisticadas
+
+O site deve parecer moderno, elegante, feminino, refinado e extremamente profissional.
+
+ESTILO VISUAL:
+
+* Fundo claro sofisticado (#f8f6f3)
+* Tons champagne, dourado suave, branco e preto fosco
+* Glassmorphism leve
+* Bordas arredondadas elegantes
+* MUITO espaço em branco
+* Tipografia sofisticada e minimalista
+* Animações suaves e cinematográficas
+* Scroll fluido
+* Efeitos de fade-up elegantes
+* Microinterações premium
+* Hover effects suaves
+* Nada exagerado ou brega
+
+IMPORTANTE:
+O site deve transmitir:
+
+* luxo silencioso
+* acolhimento
+* feminilidade sofisticada
+* tecnologia avançada
+* confiança
+* sensação de experiência exclusiva
+
+O site precisa parecer uma clínica REAL e não um template genérico.
+
+========================
+SEÇÃO HERO (FULLSCREEN)
+=======================
+
+Criar uma hero section cinematográfica fullscreen com:
+
+* vídeo/imagem premium da clínica ao fundo
+* overlay escuro sofisticado
+* animação de entrada elegante
+
+Adicionar:
+Tag pequena:
+“Clínica Premium em Alphaville”
+
+HEADLINE PRINCIPAL:
+“Sua autoestima merece um cuidado à altura.”
+
+SUBHEADLINE:
+“Tecnologia estética avançada, atendimento humanizado e resultados naturais em uma experiência exclusiva.”
+
+Botões:
+
+* “Agendar Avaliação”
+* “Conhecer Procedimentos”
+
+Adicionar elementos visuais premium:
+
+* glow suave
+* blur elegante
+* movimento sutil no background
+* indicadores de confiança
+
+========================
+SEÇÃO NÚMEROS / AUTORIDADE
+==========================
+
+Criar uma seção extremamente elegante com contadores animados:
+
++5 anos
+Oferecendo excelência em saúde e beleza
+
++10.000
+Atendimentos realizados
+
++3500
+Clientes atendidas
+
+Layout premium com:
+
+* números gigantes
+* tipografia editorial
+* animação de contador
+* fundo minimalista sofisticado
+
+========================
+SEÇÃO EXPERIÊNCIA Q!CLINIC
+==========================
+
+Criar uma seção PREMIUM chamada:
+
+“Mais do que estética. Uma experiência completa.”
+
+Adicionar cards horizontais sofisticados com imagens reais da clínica:
+
+* Atendimento humanizado
+* Ambiente sofisticado
+* Tecnologia avançada
+* Equipe especializada
+* Localização premium em Alphaville
+* Experiência acolhedora
+
+Cada card deve ter:
+
+* ícone minimalista elegante
+* imagem realista
+* hover premium
+* efeito glass
+* animação suave
+
+========================
+SEÇÃO PROCEDIMENTOS
+===================
+
+NÃO fazer lista simples.
+
+Criar cards premium grandes com:
+
+* imagem elegante
+* descrição emocional
+* efeito hover
+* botão elegante
+
+Categorias:
+
+1. Estética Corporal e Facial
+   Procedimentos:
+
+* Drenagem Linfática
+* Massagem Modeladora
+* Criolipólise
+* Jato de Plasma
+* Limpeza de Pele
+* Luz Pulsada
+* Ultraformer
+* Lavieen
+* Pós-operatório
+
+2. Embelezamento do Olhar
+
+* Lash Lifting
+* Brow Lamination
+* Design de Sobrancelhas
+* Micropigmentação
+* Remoção a Laser
+* Aquarelle Lips
+
+3. Dermatologia
+
+* Skinbooster
+* Harmonização Facial
+* Bioestimulador de Colágeno
+* Preenchimento Labial
+* PDRN
+* Peelings
+* Fios PDO
+* Tratamento de Melasma
+
+4. Nutrição
+
+* Planos alimentares
+* Body Metrix
+* Ganho de massa
+* Nutrição especializada
+
+IMPORTANTE:
+Cada categoria deve parecer uma sessão editorial premium.
+
+========================
+SEÇÃO DEPOIMENTOS
+=================
+
+Criar uma seção MUITO elegante com:
+
+* reviews estilo Apple
+* estrelas minimalistas
+* cards premium
+* fotos femininas sofisticadas
+
+Usar depoimentos humanizados como:
+
+“A clínica mais charmosa de Alphaville.”
+“Me senti cuidada do começo ao fim.”
+“Atendimento impecável e ambiente maravilhoso.”
+“Resultados naturais e atendimento incrível.”
+
+Adicionar:
+
+* nota 5.0 Google
+* selo de satisfação
+* movimento suave no carousel
+
+========================
+SEÇÃO SOBRE A CLÍNICA
+=====================
+
+Criar uma seção emocional com storytelling.
+
+Título:
+“Cada detalhe pensado para você.”
+
+Texto:
+Falar sobre:
+
+* acolhimento
+* autoestima
+* experiência premium
+* atendimento personalizado
+* sofisticação
+* confiança
+
+Adicionar:
+
+* fotos reais da clínica
+* composição visual moderna
+* layout editorial
+
+========================
+GALERIA / TOUR DA CLÍNICA
+=========================
+
+Criar uma galeria premium estilo editorial usando imagens reais da clínica.
+
+Layout:
+
+* masonry grid elegante
+* hover cinematográfico
+* zoom suave
+* animações no scroll
+
+As imagens devem destacar:
+
+* recepção sofisticada
+* detalhes da decoração
+* salas
+* equipamentos
+* ambiente aconchegante
+* café/recepção premium
+
+========================
+LOCALIZAÇÃO PREMIUM
+===================
+
+Criar uma seção extremamente sofisticada:
+
+Título:
+“No coração de Alphaville.”
+
+Adicionar:
+
+* mapa estilizado
+* endereço elegante
+* botão de rota
+* imagem da fachada
+* sensação premium
+
+Endereço:
+Praça das Orquídeas, 124 – Alphaville Comercial – Barueri/SP
+
+========================
+CTA FINAL
+=========
+
+Criar uma seção final IMPACTANTE.
+
+Fundo escuro premium.
+
+Texto gigante:
+“Pronta para viver sua melhor versão?”
+
+Subtexto sofisticado incentivando agendamento.
+
+Botão grande:
+“Agendar Minha Avaliação”
+
+Adicionar:
+
+* glow suave
+* partículas leves
+* animações premium
+
+========================
+FOOTER
+======
+
+Footer minimalista elegante contendo:
+
+* logo Q!Clinic
+* telefone
+* WhatsApp
+* Instagram
+* links rápidos
+* endereço
+* direitos reservados
+
+========================
+ANIMAÇÕES E UX
+==============
+
+Adicionar:
+
+* Framer Motion
+* transições cinematográficas
+* scroll reveal
+* efeitos parallax suaves
+* hover elegante
+* loading refinado
+* smooth scrolling
+
+O site deve parecer:
+
+* extremamente caro
+* moderno
+* cinematográfico
+* refinado
+* feminino premium
+* digno de agência high ticket
+
+NÃO usar aparência genérica de template.
+NÃO exagerar em cores fortes.
+NÃO usar elementos cafonas.
+Tudo deve parecer sofisticado, clean e premium.

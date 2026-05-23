@@ -1,0 +1,62 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "jNJGvzdvSL0zfEVVfTe3y"
+uri = "file://attached_assets/clinic_images/hero-1.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "MrN3jXbOESsuty6URkHMT"
+uri = "file://attached_assets/clinic_images/clinic-interior.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "wYx2wJuTMk6vCxHMorZY4"
+uri = "file://attached_assets/clinic_images/treatment-room.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "U0GbbDoRYsqOTM-z5uCkj"
+uri = "file://attached_assets/clinic_images/dermatologia.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "_f556gPD08y2VWrA6cI0s"
+uri = "file://attached_assets/clinic_images/clinic-lounge.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "LE2r4m-2LAa0abpxHJW5t"
+uri = "file://attached_assets/clinic_images/nutricao.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "EdiPcbnMTFJSI-86WeULe"
+uri = "file://attached_assets/clinic_images/corporal-facial.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "YX6ktav46DlXOli-dcB__"
+uri = "file://attached_assets/clinic_images/embelezamento-olhar.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "n4v91i4MyYKIMH5uY4VVN"
+uri = "file://attached_assets/clinic_images/fachada.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "2odF59xUyyQmGfseo7pIy"
+uri = "file://attached_assets/clinic_images/clinic-spa.png"
+type = "image"
+title = "generated_image"

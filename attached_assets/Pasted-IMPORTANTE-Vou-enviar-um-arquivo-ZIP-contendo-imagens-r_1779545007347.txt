@@ -1,0 +1,110 @@
+IMPORTANTE:
+
+Vou enviar um arquivo .ZIP contendo imagens reais da clínica Q!Clinic.
+
+UTILIZE ESSAS IMAGENS REAIS EM TODO O SITE para deixar o projeto autêntico, premium e cinematográfico.
+
+As imagens devem ser usadas principalmente em:
+
+* hero section
+* experiência Q!Clinic
+* galeria da clínica
+* sessões de procedimentos
+* sobre nós
+* depoimentos
+* localização
+
+========================
+GALERIA DINÂMICA PREMIUM
+========================
+
+Criar uma galeria MUITO moderna e interativa.
+
+REQUISITOS:
+
+* imagens grandes e sofisticadas
+* efeito cinematic gallery
+* scroll horizontal
+* draggable slider
+* permitir ARRASTAR com mouse para o lado
+* permitir deslizar no mobile com swipe
+* animações suaves
+* zoom elegante no hover
+* efeito inertia/momentum
+* snap suave entre imagens
+
+A experiência deve parecer:
+
+* site de hotel de luxo
+* editorial premium
+* Apple-like interaction
+
+Adicionar:
+
+* cursor customizado
+* indicador de arrastar
+* movimento fluido
+* blur/glow leve nas bordas
+
+IMPORTANTE:
+As imagens NÃO devem ficar estáticas em grid simples.
+Quero uma experiência dinâmica e premium.
+
+========================
+IMAGENS NO HERO
+===============
+
+Utilize as melhores imagens da clínica no hero.
+
+Pode alternar automaticamente entre imagens com:
+
+* fade cinematográfico
+* transições suaves
+* movimento lento de câmera
+* efeito parallax leve
+
+========================
+GOOGLE MAPS EMBED
+=================
+
+Adicionar um mapa EMBUTIDO REAL do Google Maps no final do site.
+
+Usar este link:
+https://maps.google.com/?cid=17694310822571608196&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAMYASAF&hl=pt-BR&source=embed
+
+REQUISITOS DO MAPA:
+
+* mapa escuro elegante
+* bordas arredondadas premium
+* aparência sofisticada
+* animação fade-up ao aparecer
+* botão “Abrir no Google Maps”
+* layout integrado ao design do site
+
+Adicionar também:
+Praça das Orquídeas, 124 – Alphaville Comercial – Barueri/SP
+
+========================
+EXPERIÊNCIA VISUAL
+==================
+
+O site inteiro deve parecer:
+
+* extremamente premium
+* cinematográfico
+* moderno
+* high ticket
+* sofisticado
+* elegante
+* fluido
+* digno de agência de luxo
+
+Priorizar MUITO:
+
+* experiência visual
+* motion design
+* profundidade
+* sensação de marca premium
+
+O objetivo é fazer quem entrar no site pensar:
+“essa clínica parece cara e extremamente profissional.”
